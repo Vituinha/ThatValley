@@ -1,0 +1,68 @@
+    .imagem{
+		  height: 50px; 
+		  width: 50px;
+  	}
+  	.publicações{
+  		margin-left: 100px; 
+  		background-color: lightgrey;  
+  		width: 90%;
+  	}
+    .centro{
+      text-align: center;
+    }
+  	.texto{
+  		color: white; 
+  		font-size: 20px;
+  	}
+    .cadastro{
+      margin-left: 100px; 
+      width: 90%; 
+      background-color: lightgrey;
+    }
+    .corpo{
+      background-color: white; 
+      width: 300px; 
+    }
+    .branco{
+      color: white;
+    }
+    .Fundo
+    {
+      margin: 3%;
+      width: 90%; 
+      height: 100px; 
+      background-color: pink;
+    }
+    .Letra
+    {
+      letter-spacing: 2px;
+      color: grey;
+    }
+    .imgBorda{
+      width: 250px;
+    }
+    .Margem{
+      margin-left: 10px;
+    }
+    .textoPubli{
+      color: white; 
+      font-size: 20px;
+    }
+    .Mensagem{
+      text-align: center;
+       font-size: 30px;
+       margin-left: -120px;
+    }
+    .margemM{
+      margin-left: 60px;
+    }
+    .margemG{
+      margin-left: 200px;
+    }
+    .direita{
+      text-align: right;
+      margin-right: 20%;
+    }
+    .azul{
+      color: lightblue;
+    }
